@@ -1,2 +1,6 @@
 # Linoleum-Language.Knowledge
-Kevin recommends! https://www.google.com/search?q=linoleum+programming+language
+Kevin recommends!
+sch: https://www.google.com/search?q=linoleum+programming+language
+
+# wiki:
+- https://en.wikibooks.org/wiki/Linoleum
